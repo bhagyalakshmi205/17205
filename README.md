@@ -11,4 +11,11 @@ def fun():
   ```
   ```
   fun()
-  ```
+  ``` 
+  ## write a c program to print hello apssdc
+  #include<stdio.h>
+  int main()
+  {
+  int count,first-term = 0,send term = 1, next term,i;
+  }
+  [markdown](https://www.markdownguide.org/)
