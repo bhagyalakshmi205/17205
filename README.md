@@ -19,3 +19,7 @@ def fun():
   int count,first-term = 0,send term = 1, next term,i;
   }
   [markdown](https://www.markdownguide.org/)
+  ## college website link
+  []()
+  ## gmail link
+  []()
